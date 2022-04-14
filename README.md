@@ -1,1 +1,1 @@
-# Bear-and-Bees-game
+# LAB2-JavaScript-DOM-API
